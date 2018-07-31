@@ -1,0 +1,8 @@
+C:\Users\amit.chourasia\source\repos\ACME.EmplyeeBirthdayWish\Client.Shared\bin\Debug\netstandard2.0\Client.Shared.deps.json
+C:\Users\amit.chourasia\source\repos\ACME.EmplyeeBirthdayWish\Client.Shared\bin\Debug\netstandard2.0\Client.Shared.dll
+C:\Users\amit.chourasia\source\repos\ACME.EmplyeeBirthdayWish\Client.Shared\bin\Debug\netstandard2.0\Client.Shared.pdb
+C:\Users\amit.chourasia\source\repos\ACME.EmplyeeBirthdayWish\Client.Shared\obj\Debug\netstandard2.0\Client.Shared.csproj.CoreCompileInputs.cache
+C:\Users\amit.chourasia\source\repos\ACME.EmplyeeBirthdayWish\Client.Shared\obj\Debug\netstandard2.0\Client.Shared.AssemblyInfoInputs.cache
+C:\Users\amit.chourasia\source\repos\ACME.EmplyeeBirthdayWish\Client.Shared\obj\Debug\netstandard2.0\Client.Shared.AssemblyInfo.cs
+C:\Users\amit.chourasia\source\repos\ACME.EmplyeeBirthdayWish\Client.Shared\obj\Debug\netstandard2.0\Client.Shared.dll
+C:\Users\amit.chourasia\source\repos\ACME.EmplyeeBirthdayWish\Client.Shared\obj\Debug\netstandard2.0\Client.Shared.pdb
